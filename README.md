@@ -1,4 +1,2 @@
-# Hello-World
-First repository
-Stuff
-Jojo
+# This is stuff you read
+
